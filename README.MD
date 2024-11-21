@@ -50,8 +50,8 @@ This is The Current document
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url/custom-gl-essentials.git
-   cd custom-gl-essentials
+   git clone git@github.com:serge2008/UsefulGlTools.git
+   cd UsefulGlTools
 2. Follow the tutorials and examples in each section to gradually build your custom graphics library.
 3. Experiment with adding features or optimizing your implementation.
 ## Contributing

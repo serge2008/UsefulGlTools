@@ -7,9 +7,9 @@ Welcome to the **Custom GL Essentials** project! This repository is dedicated to
 ## Project Structure
 
 ### **Section 0: README**
-This document provides an overview of the repository and its contents.
+This is The Current document
 
-### **[Section 1: Useful Math](UsefulMaths/README)**
+### **[Section 1: Useful Math](UsefulMaths/README.MD)**
 - Core mathematical concepts essential for graphics programming.
 - Detailed implementations of:
   - Vectors
@@ -17,14 +17,14 @@ This document provides an overview of the repository and its contents.
   - Transformations (translation, rotation, scaling)
   - **Quaternions** (comprehensive coverage, including theory and applications)
 
-### **[Section 2: Basics in C](CBasics/README)**
+### **[Section 2: Basics in C](CBasics/README.MD)**
 - Building blocks for implementing a custom graphics library.
 - Topics include:
   - Memory management
   - Data structures for graphics (e.g., vertex arrays)
   - Writing efficient and modular C code.
 
-### **Section 3: Rendering Pipeline**
+### **[Section 3: Rendering Pipeline](RenderingPipeline/README.MD)**
 - How to design and implement a basic rendering pipeline:
   - Vertex processing
   - Primitive assembly
